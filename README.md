@@ -21,6 +21,6 @@ Si tienes alguna pregunta o consulta relacionada con el curso, no dudes en hacer
 
 ## Enlace al Curso
 
-Puedes acceder al curso completo en el siguiente enlace: [Introducción a la Programación con JavaScript]([https://www.ejemplo.com/enlace-al-curso](https://conectaempleo-formacion.fundaciontelefonica.com/es/web/gl-programacion-con-javascript-ft-ed-10)).
+Puedes acceder al curso completo en el siguiente enlace: [Introducción a la Programación con JavaScript](https://conectaempleo-formacion.fundaciontelefonica.com/es/web/gl-programacion-con-javascript-ft-ed-10).
 
 
